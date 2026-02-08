@@ -1,59 +1,58 @@
-# CollabCode 🚀
+# CodeCollab 🚀
 
-CollabCode is a real-time collaborative code editor that allows multiple users to write, edit, and review code together in shared browser-based sessions. The project focuses on collaboration, real-time interaction, and scalable software design.
+CodeCollab is a simple CRUD-based web application designed to demonstrate core full-stack development concepts using a lightweight technology stack. The project focuses on managing shared data through Create, Read, Update, and Delete (CRUD) operations in a clear and practical way.
 
 ---
 
 ## 📌 Project Overview
 
-CollabCode aims to simplify collaborative coding by providing a zero-setup, web-based environment where users can work together in real time. It is designed to support learning, peer programming, and code review through a clean and intuitive interface.
+CodeCollab provides a minimal web interface where users can manage shared records (such as notes or code snippets). The application is built to clearly show how a frontend interacts with a backend and a database, making it ideal for learning and assessment purposes.
 
-The project is developed iteratively using an agile, sprint-based workflow.
-
----
-
-## 🎯 Objectives
-
-- Enable real-time collaborative code editing  
-- Support shared coding sessions (rooms)  
-- Encourage peer learning and code review  
-- Apply agile development practices  
-- Build a scalable and maintainable system  
+The project follows an agile, sprint-based development approach.
 
 ---
 
-## 🧑‍💻 Target Users
+## 🎯 Project Objectives
 
-- Computer Science students  
-- Mentors / Teaching Assistants  
-- Junior developers interested in pair programming  
-
----
-
-## ✨ Planned Features
-
-- Real-time multi-user code editor  
-- Shared coding rooms with access roles  
-- Live chat or commenting system  
-- Basic syntax highlighting  
-- Version history for code changes  
+- Demonstrate full CRUD (Create, Read, Update, Delete) operations
+- Show interaction between frontend, backend, and database
+- Use a simple and understandable technology stack
+- Follow structured project planning and sprint workflows
+- Build a maintainable and easy-to-extend application
 
 ---
 
-## 🛠 Tech Stack (Proposed)
+## 🧑‍💻 Team
 
-- **Frontend:** HTML5, CSS3 
-- **Backend:** Node.js   
-- **Real-Time Communication:** WebSockets  
+- **Badal Khunt** –  Developer
+
+---
+
+## 🔁 CRUD Operations
+
+The application is centered around managing a single core entity (e.g. notes or code snippets).
+
+- **Create:** Add new records through a web form  
+- **Read:** View all records or a single record from the database  
+- **Update:** Edit existing records  
+- **Delete:** Remove records when no longer needed  
+
+These operations provide a clear demonstration of data persistence and backend logic.
+
+---
+
+## 🛠 Technology Stack
+
+The project intentionally uses a simple and widely adopted stack:
+
+- **Backend:** Node.js with Express.js  
+- **Frontend:** HTML and CSS  
 - **Database:** MySQL  
+- **Containerization:** Docker  
 
+This stack ensures clarity, simplicity, and ease of deployment.
 
 ---
 
-## 📋 Task Board
-
-Project tasks and sprint progress are tracked using a Trello task board:
-
-👉 **Task Board:** https://trello.com/b/APSUb9dS/my-trello-board
-
+## 📂 Project Structure (Planned)
 
